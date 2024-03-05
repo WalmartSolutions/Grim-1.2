@@ -1,2 +1,22 @@
-# Grim
-$30.00 Lifetime Lunar Fabric 1.16.5, 1.20.1 &amp; 1.20.4 Ghost Client. Security was not their daily routine ☠️☠️
+<h1 align="center">Grim 1.2</h1>
+
+Trillium INC: https://discord.gg/vzXzFpv2gk
+
+Why?
+This client has 1 of the worst security that i have seen since 3000 bc. This client shouldnt be paid since 1. it looks like a$$ and 2. it doesnt even inject, it just overrides sodium in Lunar LMAOOOO.
+
+[3000IQPlayA]: https://github.com/3000IQPlay
+[addressnoppingA]: https://github.com/addressnopping
+
+How To Use
+Download the GrimBigTrolling.exe
+Run GrimBigTrolling.exe and choose the version you want to download
+Start game in Lunar (with Fabric)
+
+Credits
+1fw, vz5, 06g- Making the client.
+[PeterDev][addressnoppingA] - Cracking installer aka "injector".
+[3000IQPlay][3000IQPlayA] - Cracking jars.
+??? - Providing loader.
+
+GUI (Bind: RCtrl)
