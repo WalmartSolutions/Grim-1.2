@@ -3,7 +3,7 @@
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
 # Why?
-This cheat is complete horse shit and the devs are insane for charging that much.
+This cheat is complete horse shit and the devs are insane for charging that much. <br>
 Basically, cheat is ass and isn't worth the money, don't buy it.
 
 It looks atrocious and doesn't even inject all it does is override sodium in Lunar ☠️
