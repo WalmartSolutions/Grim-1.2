@@ -17,7 +17,7 @@ It looks atrocious and doesn't even inject all it does is override sodium in Lun
 3. Start game in Lunar (with Fabric)
 
 # Credits
-- 1fw, vz5, 06g- Making the client.
+- 1fw, vz5, 06g, ciotaciotaciota - Making the client.
 - [PeterDev][addressnoppingA] - Cracking installer aka "injector".
 - [3000IQPlay][3000IQPlayA] - Cracking jars.
 - ??? - Providing loader.
