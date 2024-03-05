@@ -3,7 +3,8 @@
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
 # Why?
-This client has 1 of the worst security that i have seen since 3000 bc. 
+This client has one of the worst security that i have seen since 3000 bc. 
+
 
 This client shouldnt be paid since:
 1. it looks like a$$
