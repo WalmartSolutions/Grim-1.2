@@ -15,8 +15,8 @@ This client shouldnt be paid since:
 
 # How To Use
 1. Download the GrimBigTrolling.exe
-2. Start game in Lunar (with Fabric)
-3. Run GrimBigTrolling.exe and choose the version you want to download
+2. Run GrimBigTrolling.exe and choose the version you want to download
+3. Start game in Lunar (with Fabric)
 
 # Credits
 - 1fw, vz5, 06g- Making the client.
