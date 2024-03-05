@@ -6,7 +6,7 @@
 This client has one of the worst security that i have seen since 3000 bc. 
 
 
-This client shouldnt be paid since:
+This client shouldn't be paid since:
 1. it looks like a$$
 2. it doesnt even inject, it just overrides sodium in Lunar LMAOOOO.
 
