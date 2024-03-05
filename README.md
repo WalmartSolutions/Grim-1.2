@@ -3,7 +3,11 @@
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
 # Why?
-This client has 1 of the worst security that i have seen since 3000 bc. This client shouldnt be paid since 1. it looks like a$$ and 2. it doesnt even inject, it just overrides sodium in Lunar LMAOOOO.
+This client has 1 of the worst security that i have seen since 3000 bc. 
+
+This client shouldnt be paid since:
+1. it looks like a$$
+2. 2. it doesnt even inject, it just overrides sodium in Lunar LMAOOOO.
 
 [3000IQPlayA]: https://github.com/3000IQPlay
 [addressnoppingA]: https://github.com/addressnopping
